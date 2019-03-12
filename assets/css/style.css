@@ -326,6 +326,7 @@ img {
         top: 0;
         left: 20px;
         float: center;
+        z-index: 1000;
     }
 
     #portfolio2 {
