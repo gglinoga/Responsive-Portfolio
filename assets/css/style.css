@@ -285,6 +285,10 @@ img {
       top: -75px;
     }
 
+    #portfoliosection {
+        height: 1400px;
+    }
+
     #header {
       position: static;
       margin: 0;
